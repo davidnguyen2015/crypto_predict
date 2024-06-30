@@ -1,0 +1,9 @@
+keras==3.4.1
+matplotlib==3.9.0
+numpy==2.0.0
+pandas==2.2.2
+Requests==2.32.3
+scikit_learn==1.5.0
+tensorflow==2.16.2
+tensorflow_intel==2.16.2
+yfinance==0.2.40
